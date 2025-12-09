@@ -3,12 +3,14 @@
 /include/
 /lib/
 /lib64/
+lib64/
 
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
 pyvenv/
+pyvenv.cfg
 .venv/
 env/
 venv/
